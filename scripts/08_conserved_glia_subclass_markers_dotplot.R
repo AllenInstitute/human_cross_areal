@@ -4,7 +4,7 @@ library(here)
 library(scattermore)
 library(ggrepel)
 
-#load reductions and metadata and combine to plot L5 ET UMAPs
+#load reductions and metadata and combine to plot UMAPs
 meta <- readRDS(here("data", "meta_10x_2_11_22.RDS"))        
 
 reductions <- readRDS(here("umap_coords", "Neighborhood_UMAPS", "Glia_reductions.RDS"))
