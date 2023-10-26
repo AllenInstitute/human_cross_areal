@@ -5,3 +5,4 @@ Analysis for a manuscript focused on transcriptomic comparisons of eight cortica
 * Preprint: https://doi.org/10.1101/2022.11.06.515349
 * Data files associated with this repository: https://data.nemoarchive.org/publication_release/Human_Cross_Areal_Analysis/
 * Raw data: https://assets.nemoarchive.org/dat-rg2rc5m
+* cellxgene Viewer: https://cellxgene.cziscience.com/collections/d17249d2-0e6e-4500-abb8-e6c93fa1ac6f
